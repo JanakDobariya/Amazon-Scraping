@@ -26,21 +26,22 @@ Amazon Scraping is a Python project that automates the extraction of product inf
 
 ## Installation
 1. *Clone the repository*:
-   bash
+   ```
    git clone https://github.com/JanakDobariya/Amazon-Scraping.git
    cd Amazon-Scraping
-   
+   ```
 
 2. *Install dependencies*:
    Make sure Python is installed, then run:
-   bash
+   ```
    pip install -r requirements.txt
-   
+   ```
 
 3. *Run the script*:
-   bash
+   ```
    python amazon.py
-   
+   ```
+ 
 
 ## Usage
 - The script extracts product names and prices from Amazon's search results for the keyword "mobiles."
